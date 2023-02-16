@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1056453278479",
+    "project_id": "flutter-update-26143",
+    "storage_bucket": "flutter-update-26143.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056453278479:android:7afba6bbbd3dff1ca8dc7a",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056453278479-dr1ebtm3u747brb44g6ua6fg8fupg6f6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnKifBTgzGwn6WFoW7w86anF1T2yrl40w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056453278479-dr1ebtm3u747brb44g6ua6fg8fupg6f6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
